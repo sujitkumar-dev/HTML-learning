@@ -36,10 +36,7 @@ The purpose of this repository is to:
 
 Hi, I'm Sujit Kumar! 👋
 
-I’m a beginner learning web development and passionate about building websites and applications.  
-I enjoy exploring HTML, CSS, and JavaScript, and I’m excited to improve my skills and work on interesting projects.
-
-I’m always eager to learn new technologies and best practices in web development.
+I’m a beginner learning web development and passionate about building websites and applications. I’m excited to improve my skills and work on interesting projects.
 
 Feel free to check out my repositories and follow my journey!
 
