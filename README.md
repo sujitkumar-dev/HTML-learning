@@ -18,6 +18,7 @@ Here’s an overview of the subfolders and what each one covers:
 | `html-lists/`           | Creating ordered lists, unordered lists, and description lists.             |
 | `html-tables/`          | Structuring data in tables: rows, columns, headers, and basic styling.      |
 |  `html-semantic tags/   | 
+it define the meaning and role of the content they contain, making the structure understandable for both browsers and humans.
 ---
 
 ## 💡 Purpose
